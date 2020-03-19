@@ -30,3 +30,8 @@ Tensorboard, distributed training, mixed precision training, quantization and mo
 - [ ] Summary
     - [ ] Mannual
     - [ ] Result benchmarks
+
+# Reference
+1. https://github.com/eladhoffer/convNet.pytorch
+2. https://github.com/wonnado/binary-nets
+3. https://github.com/666DZY666/model-compression  
