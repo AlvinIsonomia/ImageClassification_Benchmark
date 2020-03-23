@@ -59,7 +59,7 @@ class VGG(nn.Module):
 
 
 def vgg(**config):
-    dataset = config.pop('dataset', 'imagenet')
+    dataset = config.pop('dataset', 'ImageNet')
     depth = config.pop('depth', 16)
     bn = config.pop('bn', True)
 

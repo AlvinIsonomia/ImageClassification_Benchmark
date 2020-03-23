@@ -10,11 +10,16 @@ MNIST, CIFAR10, CIFAR100 and ImageNet are supported.
 # Features
 Tensorboard, distributed training, mixed precision training, quantization and more feature are coming soon
 
+# Log
+- 24 Mar Update：
+    - Update training/evaluation code
+
+    
 # Todo list
 - [x] Pytorch
     - [x] Dataset ,dataloader, preprocessing and visualization
-    - [ ] Classical & state-of-the-art models(AlexNet, VGGNet, Inceptions, ResNet, ResNeXt, DenseNet, SeNet, MobileNet, e.t.c)
-    - [ ] Training and Evaluation codes
+    - [x] Classical & state-of-the-art models(AlexNet, VGGNet, Inceptions, ResNet, ResNeXt, DenseNet, SeNet, MobileNet, e.t.c)
+    - [x] Training and Evaluation codes
     - [ ] Tensorboard support
     - [ ] Binary quantization models
     - [ ] Distributed training
